@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MIchaelStotsky
 - 👀 I’m interested in coding and gamedev 
 - 🌱 I’m currently learning Java.
-- 💞️ I’m want to learn : Htmal&CSS
+- 💞️ I’m want to learn : Html&CSS
 
 <!---
 MIchaelStotsky1/MIchaelStotsky1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
